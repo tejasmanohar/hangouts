@@ -1,0 +1,23 @@
+{
+  "name": "hangouts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tejasmanohar/hangouts.git"
+  },
+  "author": "Tejas Manohar, Zachary Mack, Bennett Cooper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tejasmanohar/hangouts/issues"
+  },
+  "homepage": "https://github.com/tejasmanohar/hangouts#readme",
+  "dependencies": {
+    "commander": "^2.8.1",
+    "hangouts-bot": "^0.1.0"
+  }
+}
