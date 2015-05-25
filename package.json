@@ -18,6 +18,9 @@
   "homepage": "https://github.com/tejasmanohar/hangouts#readme",
   "dependencies": {
     "commander": "^2.8.1",
-    "hangouts-bot": "^0.1.0"
+    "hangouts-bot": "^0.1.0",
+    "node-stringprep": "^0.7.0",
+    "prompt": "^0.2.14",
+    "random-word-generator": "^0.9.9"
   }
 }
